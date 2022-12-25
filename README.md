@@ -1,4 +1,4 @@
-# Python
+![logo](https://github.com/Bubu02/Python/blob/main/full-stack-banner.jpg)
 <h1 align="center">Hi 👋, This is Satya Prakash Mohanty</h1>
 <h3 align="center">A beginner in Python.</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
